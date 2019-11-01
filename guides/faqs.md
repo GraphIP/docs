@@ -1,23 +1,11 @@
 # FAQs
 
-## Getting Super Powers
+While using GraphIP, you may need to troubleshoot issues you encounter interacting with our API. This section aims to provide you some of the common problems and items to look for when troubleshooting.
 
-Becoming a super hero is a fairly straight forward process:
+---
 
-```
-$ give me super-powers
-```
+### Can I use my API Key on multiple domains?
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+Yes you can.
 
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+---
